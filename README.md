@@ -1,4 +1,5 @@
-h2. A pure AS3 FlexUnit example
+A pure AS3 FlexUnit example
+===========================
 
 FlexUnit 4 can be used to test both Flex and Actionscript only projects.  This is a very small application to demonstrate the functionality for as3 only projects.
 
@@ -11,5 +12,4 @@ To Use Application:
 
 Now go implement it on your own in your project!
 
-sim
-
+Credit to: sim
